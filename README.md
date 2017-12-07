@@ -30,7 +30,7 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 1. TensorFlow 설치
 
-1) 파이선 설치
+파이선 설치
 
 <https://www.python.org/downloads/release/python-363/>
 
@@ -40,7 +40,7 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 
 
-2) 아나콘다 설치
+아나콘다 설치
 
 <https://www.anaconda.com/download/>1
 
@@ -50,7 +50,7 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 ​     
 
-3) TensorFlow 설치
+TensorFlow 설치
 
 Anaconda Prompt를 실행합니다.
 
@@ -70,7 +70,7 @@ Anaconda Prompt를 실행합니다.
 
 ​     
 
-4) 필수라이브러리 설치
+필수라이브러리 설치
 
 <https://github.com/GSByeon/multi-speaker-tacotron-tensorflow.git>
 
@@ -134,3 +134,4 @@ python3 train.py --data_path=datasets/chosun —load_path logs/chosun-20171208
 python3 synthesizer.py --load_path logs/chosun-20171208 —text "마이크테스트 하나 둘 셋"
 ```
 
+명령어를 실행하면 "마이크 하나 둘 셋"을 학습한 음성으로 말합니다.
