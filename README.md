@@ -42,7 +42,7 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 아나콘다 설치
 
-<https://www.anaconda.com/download/>1
+<https://www.anaconda.com/download/>
 
 아나콘다 설치 주소입니다.
 
