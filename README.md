@@ -30,13 +30,13 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 1. TensorFlow 설치
 
-파이선 설치
+파이썬 설치
 
 <https://www.python.org/downloads/release/python-363/>
 
-파이선 설치 주소입니다.
+파이썬 설치 주소입니다.
 
-![그림입니다.원본 그림의 이름: CLP00003a1483a0.bmp원본 그림의 크기: 가로 1203pixel, 세로 387pixel](file:///C:\Users\goorm\AppData\Local\Temp\Hnc\BinData\EMB00003a1483a1.bmp)  
+[파이썬]: https://cdn.discordapp.com/attachments/388424141927219211/388424181366390814/image2.png	"파이썬 다운로드"
 
 
 
@@ -46,29 +46,25 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 아나콘다 설치 주소입니다.
 
-  ![그림입니다.원본 그림의 이름: CLP00003a140001.bmp원본 그림의 크기: 가로 468pixel, 세로 259pixel](file:///C:\Users\goorm\AppData\Local\Temp\Hnc\BinData\EMB00003a1483a8.bmp)  
+[아나콘다]: https://cdn.discordapp.com/attachments/388424141927219211/388424190199595011/image1.png	"아나콘다 다운로드"
 
-​     
+
 
 TensorFlow 설치
 
 Anaconda Prompt를 실행합니다.
 
-다음 명령어를 입력합니다.
+다음 명령어를 순서대로 입력합니다.
 
 ```
 1> python –m pip install —upgrade pip
-
 2> conda create –n tensorflow python=3.5
-
 2.1> y/n에서 y
-
 3> activate tensorflow
-
 4> pip install tensorflow
 ```
 
-​     
+
 
 필수라이브러리 설치
 
@@ -78,7 +74,14 @@ Anaconda Prompt를 실행합니다.
 
 그다음 cmd에서 cd명령어를 이용해 해당 폴더 위치로 이동한다.
 
-![그림입니다.원본 그림의 이름: CLP00003a140005.bmp원본 그림의 크기: 가로 815pixel, 세로 203pixel](file:///C:\Users\goorm\AppData\Local\Temp\Hnc\BinData\EMB00003a1483bf.bmp)  
+[cmd]: https://cdn.discordapp.com/attachments/388424141927219211/388425052611149824/image3.png	"예시"
+
+다음명령어를 입력해 필수라이브러리로 이동한다
+
+```
+pip3 install -r requirements.txt
+python -c "import nltk; nltk.download('punkt')"
+```
 
 ​     
 
