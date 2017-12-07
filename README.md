@@ -36,7 +36,7 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 파이썬 설치 주소입니다.
 
-[파이썬]: https://cdn.discordapp.com/attachments/388424141927219211/388424181366390814/image2.png	"파이썬 다운로드"
+![image1](https://cdn.discordapp.com/attachments/388424141927219211/388424181366390814/image2.png)
 
 
 
@@ -46,7 +46,7 @@ Tacotron: Towards End-to-End Speech Synthesis
 
 아나콘다 설치 주소입니다.
 
-[아나콘다]: https://cdn.discordapp.com/attachments/388424141927219211/388424190199595011/image1.png	"아나콘다 다운로드"
+![image1](https://cdn.discordapp.com/attachments/388424141927219211/388424190199595011/image1.png)
 
 
 
@@ -74,7 +74,7 @@ Anaconda Prompt를 실행합니다.
 
 그다음 cmd에서 cd명령어를 이용해 해당 폴더 위치로 이동한다.
 
-[cmd]: https://cdn.discordapp.com/attachments/388424141927219211/388425052611149824/image3.png	"예시"
+![image1](https://cdn.discordapp.com/attachments/388424141927219211/388425052611149824/image3.png)
 
 다음명령어를 입력해 필수라이브러리로 이동한다
 
