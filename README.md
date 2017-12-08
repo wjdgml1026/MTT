@@ -1,6 +1,12 @@
 ## Multi-Speaker Tacotron in TensorFlow 사용설명서
 
-#### 소개
+#### 10조
+
+조정희, 백은지
+
+------
+
+#### OSS 소개
 
 Multi-Speaker Tacotron in TensorFlow은 tresorflow를 이용한 딥러닝 음성 합성 시스템입니다. 해당 소프트웨어는 어떤 사람의 목소리를 들려주면 그 사람의 목소리톤뿐만 아니라 발음, 악센트까지 학습하고, 사용자가 원하는 텍스트를 입력하면 그 텍스트를 학습한 목소리로 읽어주는 소프트웨어입니다.
 
